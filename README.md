@@ -25,6 +25,8 @@ Click below to download the latest version of the Yappr app:
 - **Flutter** – Cross-platform development.
 - **Firebase Firestore** – Real-time database services.
 - **Firebase Authentication** – Secure user authentication.
+- **Riverpod** – State management solution.
+- **MVVM** – Architectural pattern used.
 - **Dart** – Programming language.
 
 ## 🤝 Contributing
